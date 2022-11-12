@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Makes byebug calls safe in production."
   spec.description = "Implements same API as byebug gem but performs no-op."
-  spec.homepage = "https://github.com/cowlibob/bundler_noop"
+  spec.homepage = "https://github.com/cowlibob/byebug_noop"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
